@@ -1,7 +1,9 @@
 # Customer-Segmentation-Project
 
 I contributed to the analysis of a database of customer data from a supermarket and their segmentation.
+
 The implementation of classification algorithms in order to segmenting customers and analyzing its results.
+
 The analysis is based on the “PYTHON” language.
 
 # Exploratory Data Analysis :
