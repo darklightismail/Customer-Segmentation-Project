@@ -22,7 +22,9 @@ The analysis is based on the “PYTHON” language.
 
 ![Figure_13](https://user-images.githubusercontent.com/47457939/183472024-877a7550-5e80-4790-ab0b-93ddb7d75393.png)
 
-- Elbow Method
+- Elbow Method : 
+
+
 The Elbow method runs k-means clustering on the dataset for a range of values for k (say from 1-10) and then for each value of k computes an average score for all clusters. By default, the distortion score is computed, the sum of square distances from each point to its assigned center.
 When these overall metrics for each model are plotted, it is possible to visually determine the best value for k. If the line chart looks like an arm, then the “elbow” (the point of inflection on the curve) is the best value of k. The “arm” can be either up or down, but if there is a strong inflection point, it is a good indication that the underlying model fits best at that point.
 We use the Elbow Method which uses Within Cluster Sum Of Squares (WCSS) against the the number of clusters (K Value) to figure out the optimal number of clusters value. 
