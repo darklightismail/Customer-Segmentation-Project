@@ -97,3 +97,9 @@ constantly sending them the offers and discounts will attract them towards spend
 can also have a cluster analysis done on what kind of products customers tend to buy and 
 can make other marketing strategies accordingly. The data set did not have enough data 
 to carry out more analytics on the same.
+
+
+# Feel free to fork and Improve it in your own unique way.
+Stay Curious.
+
+Written by Darklight-Ismail.
