@@ -28,7 +28,8 @@ When these overall metrics for each model are plotted, it is possible to visuall
 We use the Elbow Method which uses Within Cluster Sum Of Squares (WCSS) against the the number of clusters (K Value) to figure out the optimal number of clusters value. 
 WCSS measures sum of distances of observations from their cluster centroids which is given by the below formula.
 
-https://miro.medium.com/max/1838/1*aSeXkf9At7WSbGy5s_d4vw.png 
+![1_aSeXkf9At7WSbGy5s_d4vw](https://user-images.githubusercontent.com/47457939/183473211-a58503c8-4385-4a7d-9d96-b1fcdf6522c3.png)
+
 
 ![Figure_16](https://user-images.githubusercontent.com/47457939/183471841-67cd96a9-7977-45d4-b577-1b33a1c94c49.png)
 
@@ -37,7 +38,41 @@ https://miro.medium.com/max/1838/1*aSeXkf9At7WSbGy5s_d4vw.png
 ![Figure_14 - Copie](https://user-images.githubusercontent.com/47457939/183472643-bbb377ce-8e44-42f7-8bf0-cbe06ba7af16.png)
 
 
-# Cluster Analysis
+# Cluster Analysis :
+
+1. Cluster Orange - Balanced Customers:
+They earn less and spend less. We can see people have low annual income and low 
+spending scores, this is quite reasonable as people having low salaries prefer to buy less, 
+in fact, these are the wise people who know how to spend and save money. The 
+shops/mall will be least interested in people belonging to this cluster.
+19
+2. Cluster Blue - Pinch Penny Customers:
+Earning high and spending less. We see that people have high income but low spending 
+scores, this is interesting. Maybe these are the people who are unsatisfied or unhappy by 
+the mall’s services. These can be the prime targets of the mall, as they have the potential 
+to spend money. So, the mall authorities will try to add new facilities so that they can 
+attract these people and can meet their needs.
+3. Cluster Purple - Normal Customer:
+Customers are average in terms of earning and spending An Average consumer in terms 
+of spending and Annual Income we see that people have average income and an average 
+spending score, these people again will not be the prime targets of the shops or mall, but 
+again they will be considered and other data analysis techniques may be used to increase 
+their spending score.
+4. Cluster Red - Spenders:
+This type of customers earns less but spends more Annual Income is less but spending 
+high, so can also be treated as potential target customer we can see that people have low 
+income but higher spending scores, these are those people who for some reason love to 
+buy products more often even though they have a low income. Maybe it’s because these 
+people are more than satisfied with the mall services. The shops/malls might not target 
+these people that effectively but still will not lose them.
+5. Cluster Green - Target Customers:
+Earning high and also spending high Target Customers. Annual Income High as well as 
+Spending Score is high, so a target consumer. we see that people have high income and 
+high spending scores, this is the ideal case for the mall or shops as these people are the 
+prime sources of profit. These people might be the regular customers of the mall and are 
+convinced by the mall’s facilities.
+
+# Result :
 We have explored the five segments based on customers Annual Income and 
 Spending Score which are reportedly the best factors/attributes to determine the segments 
 of a customer in a Mall. They include; Pinch Penny Customers, Balanced Customers,
@@ -55,4 +90,4 @@ the Mall Supermarket. Less Income Less Spending Score can be given extra offers 
 constantly sending them the offers and discounts will attract them towards spending. We 
 can also have a cluster analysis done on what kind of products customers tend to buy and 
 can make other marketing strategies accordingly. The data set did not have enough data 
-to carry out more analytics on the same
+to carry out more analytics on the same.
