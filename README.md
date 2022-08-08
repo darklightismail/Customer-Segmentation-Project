@@ -38,8 +38,10 @@ WCSS measures sum of distances of observations from their cluster centroids whic
 ![Figure_16](https://user-images.githubusercontent.com/47457939/183471841-67cd96a9-7977-45d4-b577-1b33a1c94c49.png)
 
 # Hierarchic Clustering Algorithm :
-![Figure_15](https://user-images.githubusercontent.com/47457939/183472634-8e7f326a-089f-45df-94de-eebe86efb01d.png)
+
 ![Figure_14 - Copie](https://user-images.githubusercontent.com/47457939/183472643-bbb377ce-8e44-42f7-8bf0-cbe06ba7af16.png)
+![Figure_15](https://user-images.githubusercontent.com/47457939/183472634-8e7f326a-089f-45df-94de-eebe86efb01d.png)
+
 
 
 # Cluster Analysis :
